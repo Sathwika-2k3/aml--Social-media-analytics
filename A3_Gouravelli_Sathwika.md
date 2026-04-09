@@ -165,7 +165,21 @@ Target specific clusters (e.g., gaming, music) for better reach
 
 - **Categories Generating Most Engagement:** Entertainment, Music, and Gaming consistently drive engagement.  
 - **Correlation Between Views and Engagement:** High views do not always correlate with high engagement.  
-- **Recommendations:** Focus on engagement metrics, not just views. Use KPIs to optimize content and target active audiences.  
+- **Recommendations:** Focus on engagement metrics, not just views. Use KPIs to optimize content and target active audiences.
+
+### 5.5 Report Questions
+
+- **Which categories generate the most engagement?**
+Usually niche categories like Howto & Style, Education, or Gaming have higher like/comment ratios compared to huge categories like Music or Entertainment.
+
+- **Are high-view videos always high-engagement?**
+Not necessarily. Some viral music videos have millions of views but low like ratio, while smaller niche videos can have fewer views but very high engagement.
+
+- **What recommendations can you make to YouTube creators based on action metrics?**
+
+Focus on content quality + niche audience for high engagement
+Use metrics like like ratio & comment rate rather than views alone
+Engage viewers via call-to-action, encourage comments & likes
 
 ---
 
