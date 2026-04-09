@@ -91,6 +91,7 @@ The success of this analysis is measured by:
 - Visualization: Subgraph of top 20 tags shows clusters around central themes (music, comedy, challenges).  
 
 (![top 20 tags](<images/task1 graph.png>))
+
 ---
 
 ### 4.4 Interpretation and Recommendations
@@ -260,6 +261,14 @@ Interpretation:
 
 US trending content leans toward entertainment and interactive genres.
 Canada shows more preference for instructional or informational content.
+
+-**What cultural or behavioral patterns appear across regions?**
+Cultural Preferences: US audiences engage more with challenge-type and comedic content. Canadian audiences show higher interest in tutorials and informational videos.
+Behavioral Patterns: US viewers are more likely to interact via likes and comments on highly entertaining content. Canadian viewers engage steadily but prefer content that provides value or learning.
+Implications:
+
+Creators and brands can tailor content based on regional interests: US-targeted content: Entertaining, high-energy, viral trends. Canada-targeted content: Educational, informative, and tutorial-based content.
+
 ---
 
 ## 7. Results Summary
