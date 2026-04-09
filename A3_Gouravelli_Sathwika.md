@@ -200,6 +200,20 @@ Engage viewers via call-to-action, encourage comments & likes
 
 (![Top 20 Keywords Across Trending Videos](<images/task 3 - 1.png>))
 
+### report questions
+-**What are the most common keywords in trending videos?**
+The most common keywords across trending videos are: music, funny, challenge, vlog, comedy, game, tutorial, review, news, reaction.
+
+-**Do some keywords appear more often in certain categories?**
+Yes, certain keywords are more prominent in specific categories:
+
+Category	Frequently Appearing Keywords
+Music	music, song, cover
+Comedy	funny, prank, challenge
+Gaming	game, playthrough, challenge
+How-to & Style	tutorial, DIY, guide
+News & Politics	news, breaking, update
+
 
 ---
 
