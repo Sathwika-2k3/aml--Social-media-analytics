@@ -240,6 +240,26 @@ Example Insight: A gaming company could advertise on videos with keywords game a
 
 (![Top Trending Categories per Country (US vs CA)](<images/task 3 - 2.png>))
 
+###  Report Questions
+-**Which country shows higher engagement levels?**
+Based on average views, likes, comments, and engagement KPIs:
+
+US shows slightly higher engagement levels compared to Canada. Average views per video are higher in the US. Like ratios and comment rates are also slightly higher, indicating more active viewer interaction.
+
+Interpretation:
+
+Trending videos in the US tend to reach a larger audience and generate more interactions per video.
+
+-**Do content preferences differ by country?**
+Yes, content preferences differ between countries:
+
+Country	Top Categories	Notes
+US - Entertainment, Music, Gaming	High prevalence of challenge, music, and vlog content
+Canada -	Entertainment, How-to & Style, Music	More educational/tutorial content; fewer challenge videos
+Interpretation:
+
+US trending content leans toward entertainment and interactive genres.
+Canada shows more preference for instructional or informational content.
 ---
 
 ## 7. Results Summary
