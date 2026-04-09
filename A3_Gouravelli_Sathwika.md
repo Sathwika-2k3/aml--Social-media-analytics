@@ -214,6 +214,12 @@ Gaming	game, playthrough, challenge
 How-to & Style	tutorial, DIY, guide
 News & Politics	news, breaking, update
 
+-**What insights can advertisers or brands gain from keyword trends?**
+Targeted Advertising: Brands can place ads on videos containing high-frequency keywords relevant to their products or campaigns.
+Content Strategy: Keyword trends indicate what type of content is currently popular; brands can create promotional content aligned with trending topics.
+Cross-Category Opportunities: Some keywords like challenge or funny cross multiple categories, allowing broader reach.
+Example Insight: A gaming company could advertise on videos with keywords game and challenge to reach highly engaged viewers. A music label could target videos tagged with music or cover for maximum relevance.
+
 
 ---
 
