@@ -98,7 +98,29 @@ The success of this analysis is measured by:
 - **Most Central Tags:** `music`, `funny`, `challenge` — these tags co-occur across many videos and increase discoverability.  
 - **Frequently Co-occurring Tags:** Tags like `challenge` and `vlog` appear together, indicating trends in video content.  
 - **Network Type:** Clustered and scale-free; some tags dominate connections while others form smaller clusters.  
-- **Recommendations for Creators:** Use central and frequently co-occurring tags strategically to increase reach and audience engagement.  
+- **Recommendations for Creators:** Use central and frequently co-occurring tags strategically to increase reach and audience engagement.
+
+### 4.5 Report Questions
+
+- **Which tags are most central and why?**
+The most central tags are those with the highest degree centrality, meaning they co-occur with many other tags. These tags are typically broad or popular keywords such as “music”, “funny”, or “viral”, which are widely used across different types of videos to maximize reach and discoverability.
+
+- **Which tags frequently co-occur together?**
+Tags that belong to the same category or theme often co-occur. For example:
+
+- Music-related tags appear together (e.g., artist name + song + genre) Entertainment tags like “funny”, “comedy”, “challenge” often cluster together.
+This shows that creators strategically group related tags to target specific audiences.
+
+- **Does the tag network appear scale-free, random, or clustered?**
+The tag network appears to be scale-free and clustered:
+
+Scale-free: A few tags have very high connections (hubs), while most have few Clustered: Tags form communities based on content categories (music, gaming, news)
+
+- **What can content creators learn from tag co-occurrence patterns?**
+Use popular tags to increase visibility
+Combine broad + niche tags
+Follow existing tag combinations used by trending videos
+Target specific clusters (e.g., gaming, music) for better reach
 
 ---
 
